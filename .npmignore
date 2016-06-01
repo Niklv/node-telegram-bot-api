@@ -4,13 +4,12 @@ coverage/
 .package.json
 
 # artifacts & source
-README.hbs
+node_modules
+coverage/
+npm-debug.log
+.package.json
 output.md
 output/
-src/
-test/
-examples/
-lib-doc/
 
 # dotfiles
 .travis.yml
